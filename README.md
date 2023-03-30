@@ -1,4 +1,7 @@
-# Olá me chamo João Victor e sou um programador Full Stack especializado em Back-End
+## Olá me chamo João Victor e sou um programador Full Stack especializado em Back-End
+
+### 📫 Você pode falar comigo pelo e-mail: joao.victor.recpe@gmail.com, pelo Linkedin ou pelo direct do Instagram.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
